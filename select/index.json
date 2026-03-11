@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Deep in Abyss",
+  "base_artist": "富田美憂、伊瀬茉莉也",
+  "createdAt": "2026-03-11T15:14:30.898828Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Deep in Abyss (Anime Intro Version)",
+      "artist": "Miyu Tomita feat. Mariye Ise",
+      "has_synced": true,
+      "path": "select/01_Deep_in_Abyss_(Anime_Intro_Version)_Miyu_Tomita_feat._Mariye_Ise.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Deep In Abyss - Anime Intro Version",
+      "artist": "Miyu Tomita/Mariye Ise",
+      "has_synced": true,
+      "path": "select/02_Deep_In_Abyss_-_Anime_Intro_Version_Miyu_Tomita_Mariye_Ise.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Deep in Abyss (Made in Abyss)",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/03_Deep_in_Abyss_(Made_in_Abyss)_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "リコ(CV:富田美憂)、レグ(CV:伊瀬茉莉也)",
+      "has_synced": true,
+      "path": "select/04_Deep_in_Abyss_リコ(CV_富田美憂)、レグ(CV_伊瀬茉莉也).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "リコ(富田美憂)&レグ(伊瀬茉莉也)",
+      "has_synced": true,
+      "path": "select/05_Deep_in_Abyss_リコ(富田美憂)&レグ(伊瀬茉莉也).lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "Mariya Ise",
+      "has_synced": true,
+      "path": "select/06_Deep_in_Abyss_Mariya_Ise.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "Selphius",
+      "has_synced": true,
+      "path": "select/07_Deep_in_Abyss_Selphius.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "リコ(CV:富田美憂)/レグ(CV:伊瀬茉莉也)",
+      "has_synced": true,
+      "path": "select/08_Deep_in_Abyss_リコ(CV_富田美憂)_レグ(CV_伊瀬茉莉也).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Deep In Abyss - Anime Intro Version",
+      "artist": "Miyu Tomita",
+      "has_synced": true,
+      "path": "select/09_Deep_In_Abyss_-_Anime_Intro_Version_Miyu_Tomita.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Deep in Abyss (instrumental)",
+      "artist": "Miyu Tomita & Mariya Ite",
+      "has_synced": false,
+      "path": "select/10_Deep_in_Abyss_(instrumental)_Miyu_Tomita_&_Mariya_Ite.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "Miyu Tomita & Mariya Ite",
+      "has_synced": true,
+      "path": "select/11_Deep_in_Abyss_Miyu_Tomita_&_Mariya_Ite.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "リコ（CV：富田美憂）、レグ（CV：伊瀬茉莉也）",
+      "has_synced": true,
+      "path": "select/12_Deep_in_Abyss_リコ(CV_富田美憂)、レグ(CV_伊瀬茉莉也).lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "リコ",
+      "has_synced": true,
+      "path": "select/13_Deep_in_Abyss_リコ.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "Tomita Miyu & Ise Mariya",
+      "has_synced": true,
+      "path": "select/14_Deep_in_Abyss_Tomita_Miyu_&_Ise_Mariya.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Deep in Abyss",
+      "artist": "Miyu Tomita & Mariya Ise",
+      "has_synced": true,
+      "path": "select/15_Deep_in_Abyss_Miyu_Tomita_&_Mariya_Ise.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Deep in Abyss (instrumental)",
+      "artist": "Miyu Tomita & Mariya Ise",
+      "has_synced": true,
+      "path": "select/16_Deep_in_Abyss_(instrumental)_Miyu_Tomita_&_Mariya_Ise.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Deep in Abyss",
+      "artist": "富田美憂、伊瀬茉莉也",
+      "has_synced": false,
+      "path": "select/pl_01_Deep_in_Abyss_富田美憂、伊瀬茉莉也.txt"
+    }
+  ]
+}
